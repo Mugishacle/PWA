@@ -17,6 +17,7 @@ Usage
 The user will be able to add expenses and deposits to their budget with or without a connection. If the user enters transactions offline, the total should be updated when they're brought back online
 
 Image shows example of transaction working away from network. Image of app
+![Capture](https://user-images.githubusercontent.com/88864267/148889621-e648ed28-5d04-4100-8d78-483cca0ae4d0.JPG)
 
 Tech Used
 Node js
