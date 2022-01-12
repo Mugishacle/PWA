@@ -9,7 +9,7 @@ User Story
 Acceptance Criteria
 Credits
 Links
-The URL of the GitHub repository:
+The URL of the GitHub repository:https://github.com/Mugishacle/PWA
 
 The link to the heroku: https://vault-tec-pwa.herokuapp.com/
 
